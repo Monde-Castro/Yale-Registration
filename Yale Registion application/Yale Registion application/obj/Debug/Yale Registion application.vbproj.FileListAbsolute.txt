@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\bin\Debug\Yale Registion application.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\bin\Debug\Yale Registion application.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\bin\Debug\Yale Registion application.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\bin\Debug\Yale Registion application.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale_Registion_application.Form1.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale_Registion_application.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale Registion application.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale Registion application.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale Registion application.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale Registion application.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\bin\Debug\Yale Registion application.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\bin\Debug\Yale Registion application.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale Registion application.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Yale Registion application\Yale Registion application\obj\Debug\Yale Registion application.application
